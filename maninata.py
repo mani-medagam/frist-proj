@@ -1,4 +1,3 @@
-print("maniknata")
-pont=20
+print("manikna")
 print(pont)
 print("hello rowdy")
